@@ -1,4 +1,4 @@
 % function 
 function test1(u)
 
-y = u * 2;
+y = u * 3;
